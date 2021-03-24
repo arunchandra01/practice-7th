@@ -1,0 +1,59 @@
+h1{
+	text-align: center;
+}
+.header{
+	/*height: 100px;*/
+	min-height: 100px;
+	background-color: red;
+
+}
+.container{
+	overflow: hidden;
+
+}
+.one{
+	width: 60%;
+	float: left;
+	min-height: 100px;
+	background-color: green;
+
+}
+.two{
+	width: 40%;
+	float: right;
+	min-height: 100px;
+	background-color: yellow;
+	
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.box{
+	float: left;
+	width: 33.33%;
+	min-height: 150px;
+
+
+}
+.yellow{
+	background-color: yellow;
+}
+
+.teal{
+	background-color: teal;
+}
+.green{
+	background-color: green;
+}
+
+.footer{
+	min-height: 120px;
+	background-color: black;
+	/*clear: both;*/
+}
+
+			/*about*/
+.image{
+	width: 100%; height: 800px;
+}
